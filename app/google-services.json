@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861645806294",
+    "firebase_url": "https://findzone-362c1.firebaseio.com",
+    "project_id": "findzone-362c1",
+    "storage_bucket": "findzone-362c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861645806294:android:4936717d77aae8c60a4777",
+        "android_client_info": {
+          "package_name": "com.example.findzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861645806294-03t09rvlj900e9uj87b2fi9taauhp45o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.findzone",
+            "certificate_hash": "92d2b1252695f784e60ed34d81e7540a8021e304"
+          }
+        },
+        {
+          "client_id": "861645806294-vdl3h63l8j4kibh1g0rl8qgmavnctouv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMSGeW-Q8csA8oUwcf_br6D0Zq4Ey34s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861645806294-vdl3h63l8j4kibh1g0rl8qgmavnctouv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
